@@ -16,7 +16,7 @@ Simply download the public GitHub repo and open the file in any editor that supp
 
 ## Usage
 
->To start the game, simply run milestone_5.py
+>To start the game, simply run hangman_Template.py
 
 Upon starting the game, the computer is going to randomly pick a word from a pre-existing word list. You will then be asked to guess a letter. If it is part of the word, you will see the word you are trying to guess update. Unknown letters will be marked with an underscore.
 
@@ -24,7 +24,7 @@ You start the game with 5 lives, each incorrect guess loses you one.
 To win the game, guess the word before running out of lives!
 
 ## File Structure
-As this was part of my learning journey, the project consists of multiple milestones. If you are interested to see how the game was developed gradually, you can view the other files. But really, to play the game, you only need milestone_5.py
+As this was part of my learning journey, the project consists of multiple milestones. If you are interested to see how the game was developed gradually, you can view the other files. But really, to play the game, you only need hangman_Template.py
 
 ## Licence
-There is no licence. This is an open-source material and can be used by anyone.
+There is no licence
